@@ -23,4 +23,4 @@ This is the host application in a Webpack Module Federation setup. It consumes t
 
 ## Module Federation
 
-This module uses Webpack's Module Federation plugin to consume the `Button` component from the remote module. The remote is configured to load from `http://localhost:3001`.
+This module uses Webpack's Module Federation plugin to consume the `Button` component from the remote module. The remote is configured to load from `http://localhost:3001` (see module-federation-remote repo)
